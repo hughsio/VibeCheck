@@ -1,0 +1,18 @@
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all files in any directory named temp
+temp/
+
+
+# Ignore all .log files in the temp directory
+temp/*.log
+
+# But do track doc/temp.log, even though you're ignoring .log files above
+!doc/temp.log
+
+# Only ignore the root temp.log, not a/b/temp.log
+/temp.log
