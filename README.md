@@ -19,3 +19,7 @@ This is a summer project designed to familiarize myself with GitHub's functional
 
 To get started with this project, clone the repository, install the required dependencies listed in `requirements.txt`, and follow the setup instructions provided in the documentation.
 
+
+## Dataset
+
+We will be using the dataset `50 Famous Speeches.csv` as our training dataset. This dataset comprises a collection of some of the most influential and memorable speeches in history. It is meticulously curated to include orations that have inspired change, shaped societies, and left a lasting impact on the world.
