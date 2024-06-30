@@ -16,3 +16,10 @@ temp/*.log
 
 # Only ignore the root temp.log, not a/b/temp.log
 /temp.log
+
+
+# Ignore the environment file
+.env
+
+# Ignore the build directory
+build/
