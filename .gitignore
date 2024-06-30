@@ -19,8 +19,20 @@ temp/*.log
 
 
 # Ignore the environment file
-.env
-newvenv
+env
+newvenv/
+venv/
 
 # Ignore the build directory
 build/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
