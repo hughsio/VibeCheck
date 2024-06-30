@@ -20,6 +20,7 @@ temp/*.log
 
 # Ignore the environment file
 .env
+newvenv
 
 # Ignore the build directory
 build/
